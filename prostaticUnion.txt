@@ -1,0 +1,64 @@
+联盟官网 prostaticUnion
+logo
+联盟介绍  关于协会
+            联盟简介
+            联盟章程
+            组织架构
+协作医院  联盟单位
+            核心医院
+                核心医院：北京大学积水潭医院；首都医科大学附属北京同仁医院；首都医科大学附属北京安贞医院；南方医科大学珠江医院
+            成员单位
+                成员单位---北京和平里医院；崇礼区人民医院；潍坊市人民医院；贵阳市第一人民医院，
+            合作企业    kong
+名家名医  联盟专家
+
+新闻中心
+
+申请加入
+    单位加入 专家加入
+服务项目
+    医患沟通     链接 二维码
+    专家团队
+    科研平台        链接
+    远程会诊教学平台    链接
+    专业考评
+
+
+
+/prostaticUnion
+    /index.html              首页
+    /prostaticUnion
+        /public                 css/js/images
+            /css                    css
+            /files              申请报文件
+            /font               字体文件
+            /images              图片
+            /js
+                /nav.js         导航js
+            /swiper             轮播图插件
+    /web
+        /login.html             登录页
+        /erweima.html           医患沟通二维码
+        -----tab2-关于协会----
+        /introduce.html       协会介绍
+        /whyJoin.html           协会宗旨
+        /constitution.html   协会章程
+        -------tab3-联盟单位------
+        /coreHospital.html      核心医院
+        /memberUnit.html        成员单位
+        /cooperation.html       合作企业
+
+        ------tab4-联盟专家-------
+        /doctors.html         联盟专家
+        /doctorDetails.html     专家详情
+        --------tab5-新闻公告-------
+        /news.html             新闻
+        --------tab6-申请加入-------
+        /hospitalsJoin.html           医院加入
+        /expertJoin.html           医生加入
+        /companyJoin.html            单位加入
+
+
+        --------tab7-服务项目-------
+
+        --------tab8-平台登陆-------

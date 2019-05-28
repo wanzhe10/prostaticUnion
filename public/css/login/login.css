@@ -1,0 +1,183 @@
+@charset "UTF-8";
+/*登录页 start*/
+@media screen and (max-width: 1200px) {
+  .login-bg {
+    width: 100%;
+    height: auto;
+    margin-top: 0;
+    position: absolute;
+    top: 120px;
+    left: 0;
+  }
+  .login-bg .login-img {
+    width: 100%;
+    margin: 0 auto;
+    height: 100%;
+  }
+  .login-bg .login-img .login {
+    width: 990px;
+    margin: 0 auto;
+  }
+  .login-bg .login-img .login .login-box {
+    width: 368px;
+    height: 298px;
+    border: solid 1px #4b4b4b;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.502);
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
+    color: #fff;
+    position: relative;
+    top: 50px;
+    left: 0;
+  }
+  .login-bg .login-img .login .login-box ul {
+    margin: 0 auto;
+    width: 320px;
+  }
+  .login-bg .login-img .login .login-box ul li {
+    list-style: none;
+    color: #b1b1b1;
+    padding: 2px 0;
+    height: 40px;
+    font-family: "microsoft yahei";
+    clear: both;
+  }
+  .login-bg .login-img .login .login-box ul li span {
+    float: left;
+    margin: 10px;
+  }
+  .login-bg .login-img .login .login-box ul li input[type="password"],
+  .login-bg .login-img .login .login-box ul li input[type="text"] {
+    line-height: 40px;
+    font-size: 16px;
+    outline: none;
+    width: 216px;
+    height: 40px;
+    float: left;
+  }
+  .login-bg .login-img .login .login-box ul li .botton-login {
+    background-color: #00a0ff;
+    border-radius: 2px;
+    width: 96px;
+    height: 32px;
+    color: #fff;
+  }
+  .login-bg .login-img .login .login-box ul .login-box-t {
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    background: #fff;
+  }
+  .login-bg .login-img .login .login-box ul .login-box-c {
+    border-top: solid 1px #d3d3d3;
+    border-bottom: solid 1px #d3d3d3;
+    background: #fff;
+  }
+  .login-bg .login-img .login .login-box ul .login-box-b {
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    background: #fff;
+  }
+  .login-bg .login-img .login .login-box ul .login-box-b #captcha {
+    display: inline-block;
+    width: 160px;
+    float: left;
+  }
+  .login-bg .login-img .login .login-box ul .login-box-b .num {
+    display: inline-block;
+    width: 100px;
+    height: 28px;
+    float: left;
+    margin: 6px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .login-bg {
+    width: 100%;
+    height: auto;
+    margin-top: 0;
+    position: absolute;
+    top: 120px;
+    left: 0;
+  }
+  .login-bg .login-img {
+    width: 100%;
+    margin: 0 auto;
+    height: 100%;
+  }
+  .login-bg .login-img .login {
+    width: 990px;
+    margin: 0 auto;
+  }
+  .login-bg .login-img .login .login-box {
+    width: 368px;
+    height: 298px;
+    border: solid 1px #4b4b4b;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.502);
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
+    color: #fff;
+    position: relative;
+    top: 50px;
+    left: 0;
+  }
+  .login-bg .login-img .login .login-box ul {
+    margin: 0 auto;
+    width: 320px;
+  }
+  .login-bg .login-img .login .login-box ul li {
+    list-style: none;
+    color: #b1b1b1;
+    padding: 2px 0;
+    height: 40px;
+    font-family: "microsoft yahei";
+    clear: both;
+  }
+  .login-bg .login-img .login .login-box ul li span {
+    float: left;
+    margin: 10px;
+  }
+  .login-bg .login-img .login .login-box ul li input[type="password"],
+  .login-bg .login-img .login .login-box ul li input[type="text"] {
+    line-height: 40px;
+    font-size: 16px;
+    outline: none;
+    width: 216px;
+    height: 40px;
+    float: left;
+  }
+  .login-bg .login-img .login .login-box ul li .botton-login {
+    background-color: #00a0ff;
+    border-radius: 2px;
+    width: 96px;
+    height: 32px;
+    color: #fff;
+  }
+  .login-bg .login-img .login .login-box ul .login-box-t {
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    background: #fff;
+  }
+  .login-bg .login-img .login .login-box ul .login-box-c {
+    border-top: solid 1px #d3d3d3;
+    border-bottom: solid 1px #d3d3d3;
+    background: #fff;
+  }
+  .login-bg .login-img .login .login-box ul .login-box-b {
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    background: #fff;
+  }
+  .login-bg .login-img .login .login-box ul .login-box-b #captcha {
+    display: inline-block;
+    width: 160px;
+    float: left;
+  }
+  .login-bg .login-img .login .login-box ul .login-box-b .num {
+    display: inline-block;
+    width: 100px;
+    height: 28px;
+    float: left;
+    margin: 6px;
+  }
+}
+/*登录页 end*/
